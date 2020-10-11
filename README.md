@@ -23,7 +23,7 @@ This is the api backend for the Petful application.
 - POST/ A user provides their contact info to be added to the line to adopt a pet
 - DELETE/ People should be removed from the line after they've adopted a pet
 
-##Tech Stack
+## Tech Stack
 
 ### Web Client
 
